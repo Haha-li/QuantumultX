@@ -1,0 +1,38 @@
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,PROXY
+DOMAIN-SUFFIX,phprcdn.com,PROXY
+DOMAIN-SUFFIX,pornhub.com,PROXY
+DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,PROXY
+DOMAIN-SUFFIX,huluim.com,PROXY
+DOMAIN-SUFFIX,hulustream.com,PROXY
+# > FOX NOW
+USER-AGENT,FOX%20NOW*,PROXY
+DOMAIN-SUFFIX,fox.com,PROXY
+DOMAIN-SUFFIX,foxdcg.com,PROXY
+DOMAIN-SUFFIX,theplatform.com,PROXY
+DOMAIN-SUFFIX,uplynk.com,PROXY
+# > FOX+
+DOMAIN-SUFFIX,foxplus.com,PROXY
+# DOMAIN-SUFFIX,theplatform.com,PROXY
+DOMAIN,cdn-fox-networks-group-green.akamaized.net,PROXY
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net,PROXY
+DOMAIN,foxsports01-i.akamaihd.net,PROXY
+DOMAIN,foxsports02-i.akamaihd.net,PROXY
+DOMAIN,foxsports03-i.akamaihd.net,PROXY
+DOMAIN,staticasiafox.akamaized.net,PROXY
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*,PROXY
+DOMAIN-SUFFIX,hbo.com,PROXY
+DOMAIN-SUFFIX,hbogo.com,PROXY
+DOMAIN-SUFFIX,hbonow.com,PROXY
+USER-AGENT,HBOMAX*,PROXY
+DOMAIN-SUFFIX,hbomax.com,PROXY
+# > Disney+
+USER-AGENT,Disney+*,PROXY
+DOMAIN-SUFFIX,disney-plus.net,PROXY
+DOMAIN-SUFFIX,disneyplus.com,PROXY
+DOMAIN-SUFFIX,dssott.com,PROXY
+DOMAIN,cdn.registerdisney.go.com,PROXY
+DOMAIN,global.edge.bamgrid.com,PROXY
