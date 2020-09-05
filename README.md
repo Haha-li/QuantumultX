@@ -1,2 +1,2 @@
 # QuantumultX
-statistics
+自用
