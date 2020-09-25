@@ -1,0 +1,4 @@
+# > PayPal
+USER-AGENT,PayPal*,PROXY
+DOMAIN-SUFFIX,paypal.com,PROXY
+DOMAIN-SUFFIX,paypalobjects.com,PROXY
